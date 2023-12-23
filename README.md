@@ -2,9 +2,7 @@
 
 <div align=center>
 
-<p align=center> <img src=https://komarev.com/ghpvc/?username=RozKoy alt=RozKoy /> </p>
-
-[![Github Badge](https://img.shields.io/badge/-RozKoy-grey?style=flat&logo=github&logoColor=white&link=https://github.com/RozKoy/)](https://www.github.com/RozKoy/) [![Gmail Badge](https://img.shields.io/badge/-okkoy.1401@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:okkoy.1401@gmail.com)](mailto:okkoy.1401@gmail.com) [![Linkedin Badge](https://img.shields.io/badge/-rozkoy-0072b1?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rozkoy/)](https://www.linkedin.com/in/rozkoy/) 
+[![Github Badge](https://img.shields.io/badge/-RozKoy-grey?style=flat&logo=github&logoColor=white&link=https://github.com/RozKoy/)](https://www.github.com/RozKoy/) [![Gmail Badge](https://img.shields.io/badge/-okkoy.1401@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:okkoy.1401@gmail.com)](mailto:okkoy.1401@gmail.com) [![Linkedin Badge](https://img.shields.io/badge/-rozkoy-0072b1?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rozkoy/)](https://www.linkedin.com/in/rozkoy/) [![Instagram Badge](https://img.shields.io/badge/rozinnnnn__-E4405F?style=flat&logo=instagram&logoColor=white&link=https://www.instagram.com/rozinnnnn_/)](https://www.instagram.com/rozinnnnn_/)
   
 </div>
 
