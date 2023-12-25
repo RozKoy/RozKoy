@@ -10,17 +10,6 @@
 
 <p align='center'>A Full Stack Web Developer with more than 2 year of experience in integrating design implementation with database management systems. Familiar with several frameworks in web development such as Laravel, NestJs (JavaScript / TypeScript), Svelte, Tailwind CSS. Proven to produce web pages that can run well and meet the needs of service recipients/clients.</p>
 
-<h2> My Github Stats </h2>
-
-<div align=center>
-
-[![Github stats](https://github-readme-stats.vercel.app/api?username=RozKoy&show_icons=true&include_all_commits=true)](https://github.com/RozKoy/github-readme-stats) 
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RozKoy&layout=compact)](https://github.com/RozKoy/github-readme-stats)
-  
-</div>
-
-
 <!--
 **RozKoy/RozKoy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
