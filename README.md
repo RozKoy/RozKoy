@@ -99,7 +99,7 @@ A Developer with more than 2 year of experience in integrating design implementa
 <tr>
   <td align="center" width="50%">
 
-![RozKoy's Stats](https://github-readme-stats.vercel.app/api?username=RozKoy&theme=flag-india&show_icons=true&hide_border=true&count_private=true)
+![RozKoy's Stats](https://github-readme-stats.vercel.app/api?username=RozKoy&theme=flag-india&show_icons=true&hide_border=true)
   
   </td>
   <td align="center" width="50%">
@@ -111,7 +111,7 @@ A Developer with more than 2 year of experience in integrating design implementa
 <tr>
   <td align="center" colspan="2">
 
-![RozKoy's Streak](https://github-readme-streak-stats.herokuapp.com/?user=RozKoy&theme=flag-india&hide_border=true)
+![RozKoy's Streak](https://github-readme-streak-stats.herokuapp.com/?user=RozKoy&theme=flag-india&hide_border=true&count_private=true)
   
   </td>
 </tr>
