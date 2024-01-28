@@ -57,6 +57,7 @@ A Developer with more than 2 year of experience in integrating design implementa
 
 </div>
 
+<!--
 <div align=center>
 
 <h3> 📊 Stats </h3>
@@ -126,3 +127,4 @@ A Developer with more than 2 year of experience in integrating design implementa
 <img align="center" src="https://github-profile-trophy.vercel.app/?username=RozKoy&theme=radical&rank=SECRET,SSS,SS,S,AAA,AA,A,B,C&margin-h=15&&margin-w=5&no-bg=true&row=1&column=5" alt="TROPHY" />
 
 </div>
+-->
