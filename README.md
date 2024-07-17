@@ -4,7 +4,7 @@
 
 # Hi 👋, I'm [` Rozin `](https://github.com/RozKoy)
   
-### Developer at [Reclas Tech](https://github.com/reclas-tech)
+<!-- ### Developer at [Reclas Tech](https://github.com/reclas-tech) -->
 
 A Developer with more than 2 year of experience in integrating design implementation with database management systems. Familiar with several frameworks in web development such as **` ReactJS `**, **` NestJs `**, **` CodeIgnitier `**, **` Laravel `**, etc. Proven to produce web pages that can run well and meet the needs of service clients.
 
